@@ -7,6 +7,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 ## Education
+Master of Science in Information Technology Auditing & Cyber Security 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
