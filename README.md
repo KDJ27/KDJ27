@@ -10,7 +10,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Temple University 
 Master of Science in Information Technology Auditing & Cyber Security 
 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.linkedin.com/in/kyuandejohnson/"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ### Lincoln University 
 Bachelor of Science in Information Technology 
