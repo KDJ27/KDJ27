@@ -1,67 +1,42 @@
-# Hello, I'm Kyuande Johnson
+# Kyuande Johnson
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyuandejohnson/)
+## CISSP | Information Technology Professional
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, particularly in Security Operations Center (SOC) roles.
+Welcome to my professional GitHub page! I'm an experienced IT professional specializing in vulnerability management and security compliance, with a strong focus on federal information systems. Currently, I'm making waves at Noblis in Philadelphia, PA, where I'm dedicated to safeguarding the integrity of U.S. Navy information systems.
 
-## Objective
+### Contact Me
 
-As a recent Master of Science in Information Technology Auditing & Cyber Security graduate from Temple University, I am eager to transition into the cybersecurity field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+For professional inquiries, please reach out through [LinkedIn](#) or [submit a contact form](#).
 
-## Education
+(Note: Replace `#` with your actual LinkedIn profile link and contact form link, if available.)
 
-### Temple University 
-- Master of Science in Information Technology Auditing & Cyber Security (2019-2021)
-- Coursework included: [List relevant coursework or projects]
+## About Me
 
-### Lincoln University 
-- Bachelor of Science in Information Technology
-- Honors: [List any honors or awards]
+I hold a Master of Science in Cyber Security from Temple University and a Bachelor of Science in Information Technology from Lincoln University of Pennsylvania. Certified in CISSP and CompTIA Security+, I've spent over 7 years in the IT field, focusing on enhancing system security postures within high-stakes environments like the DoD and Navy.
 
-## Certifications
+## Experience
 
-- Security+: CompTIA
-- Network+: CompTIA
-- [Add brief descriptions of certifications and their relevance to cybersecurity]
+### Noblis | Philadelphia, PA
+**Information Systems Security Manager (Sep 2022 – Present)**
+- Led risk and vulnerability assessments, identifying and mitigating threats to U.S. Navy systems.
+- Enhanced security compliance through rigorous NIST 800-53, DISA STIGs, and SRGs assessments.
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](https://google.com)|
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com)|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-
-### Network
-- Wireshark
-- Suricata
-- Zeek
-
-### Endpoint
-- Microsoft Defender for Endpoint
-- Velociraptor
-
-### SIEM
-- Microsoft Sentinel
-- Splunk
-- Elastic
+**Information System Security Engineer (Oct 2020 – Sep 2022)**
+- Conducted comprehensive scans and mitigated vulnerabilities for Department of Navy Systems.
 
 ## Projects
 
-### Detection Lab
-- Description: Implemented a lab environment for simulating attacks and monitoring network traffic.
-- Technologies: [List technologies used]
-- Role: [Your role]
-- Outcome: [Any outcomes or lessons learned]
+- **Microsoft MDM and Dual Factor Authentication**: Spearheaded the integration of robust security measures in the McKean Defense IT environment.
+- **Transition to Microsoft GCC High**: Facilitated a smooth transition to a secure cloud platform to meet FedRAMP high-impact requirements.
 
-### SOC Automation Project
-- Description: Developed automation scripts for security operations, including incident response and case management.
-- Technologies: [List technologies used]
-- Role: [Your role]
-- Outcome: [Any outcomes or lessons learned]
+## Education & Certifications
+
+- **Master of Science in Cyber Security**, Temple University
+- **Bachelor of Science in Information Technology**, Lincoln University of Pennsylvania
+- **Certifications**: CISSP, CompTIA Security+
+
+## Skills
+
+- **Technical**: Vulnerability Assessment Tools (ACAS), NIST 800 RMF, CVE, CVSS
+- **Soft Skills**: Team Leadership, Problem Solving, Effective Communication
 
