@@ -31,7 +31,6 @@ I hold a Master of Science in Cyber Security from Temple University and a Bachel
 
 ## Education 
 - M.S. Cyber Security & IT Auditing - Temple University
-- B.S. Information Technology - Lincoln University of Pennsylvania
 
 ## Skills
 
