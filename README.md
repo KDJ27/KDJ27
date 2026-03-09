@@ -1,4 +1,4 @@
-# Kyaunde Johnson
+# Kyuande Johnson
 
 Cybersecurity Engineer
 
