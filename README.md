@@ -1,6 +1,6 @@
 # Kyuande Johnson
 
-## CISSP | Information Technology Professional
+## Cyber Security Professional | CISSP | CCSP | Security + | AWS Certified Cloud Practitioner
 
 Welcome to my professional GitHub page! I'm an experienced IT professional specializing in vulnerability management and security compliance, with a strong focus on federal information systems. Currently, I'm making waves at Noblis in Philadelphia, PA, where I'm dedicated to safeguarding the integrity of U.S. Navy information systems.
 
