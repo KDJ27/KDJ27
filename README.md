@@ -6,7 +6,7 @@ Welcome to my professional GitHub page! I'm an experienced IT professional speci
 
 ### Contact Me
 
-For professional inquiries, please reach out through [LinkedIn](#) or [submit a contact form](#).
+For professional inquiries, please reach out through [LinkedIn](#) or email kyuandej@gmail.com.
 
 (Note: Replace `#` with your actual LinkedIn profile link and contact form link, if available.)
 
