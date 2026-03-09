@@ -3,7 +3,7 @@
 Cybersecurity Engineer
 
 [![CISSP](https://img.shields.io/badge/CISSP-blue?style=for-the-badge)](https://www.credly.com/badges/ebf23c85-ba7e-42a0-847c-d5786055b299/public_url)
-[![CCSP](https://img.shields.io/badge/CCSP-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
+[![CCSP](https://img.shields.io/badge/CCSP-blue?style=for-the-badge)](https://www.credly.com/badges/c73167be-c0cc-482b-ab36-7ca5bde781ed/public_url)
 [![Security+](https://img.shields.io/badge/Security+-red?style=for-the-badge)](YOUR_CREDLY_LINK)
 [![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange?style=for-the-badge)](YOUR_CREDLY_LINK)
 ---
