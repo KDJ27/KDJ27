@@ -1,7 +1,8 @@
 # Kyuande Johnson
 
 Cybersecurity Engineer
-Cybersecurity Engineer building and experimenting with security infrastructure.
+
+Building and experimenting with security infrastructure.
 
 [![CISSP](https://img.shields.io/badge/CISSP-blue?style=for-the-badge)](https://www.credly.com/badges/ebf23c85-ba7e-42a0-847c-d5786055b299/public_url)
 [![CCSP](https://img.shields.io/badge/CCSP-blue?style=for-the-badge)](https://www.credly.com/badges/c73167be-c0cc-482b-ab36-7ca5bde781ed/public_url)
