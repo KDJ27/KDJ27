@@ -2,13 +2,11 @@
 
 Cybersecurity Engineer
 
-[![CISSP](https://img.shields.io/badge/CISSP-ISC2-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
-[![CCSP](https://img.shields.io/badge/CCSP-ISC2-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
-[![Security+](https://img.shields.io/badge/Security%2B-CompTIA-red?style=for-the-badge)](YOUR_CREDLY_LINK)
-[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge)](YOUR_CREDLY_LINK)
-
+[![CISSP](https://img.shields.io/badge/CISSP-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
+[![CCSP](https://img.shields.io/badge/CCSP-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
+[![Security+](https://img.shields.io/badge/Security+-red?style=for-the-badge)](YOUR_CREDLY_LINK)
+[![AWS CCP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange?style=for-the-badge)](YOUR_CREDLY_LINK)
 ---
-
 ## About
 
 This GitHub documents the cybersecurity lab environment I use to experiment with infrastructure, monitoring systems, and defensive security techniques.
