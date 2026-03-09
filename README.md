@@ -1,6 +1,6 @@
 # Kyaunde Johnson
 
-Cybersecurity Engineer | CISSP | CCSP | Security+ | AWS Certified Cloud Practitioner
+Cybersecurity Engineer
 
 [![CISSP](https://img.shields.io/badge/CISSP-ISC2-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
 [![CCSP](https://img.shields.io/badge/CCSP-ISC2-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
