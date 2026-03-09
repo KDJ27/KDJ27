@@ -1,39 +1,79 @@
-# Kyuande Johnson
+# Kyaunde Johnson
 
-## Cyber Security Professional | CISSP | CCSP | Security + | AWS Certified Cloud Practitioner
+Cybersecurity Engineer | CISSP | CCSP | Security+ | AWS Certified Cloud Practitioner
 
-Welcome to my professional GitHub page! I'm an experienced IT professional specializing in vulnerability management and security compliance, with a strong focus on federal information systems. Currently, I'm making waves at Noblis in Philadelphia, PA, where I'm dedicated to safeguarding the integrity of U.S. Navy information systems.
+[![CISSP](https://img.shields.io/badge/CISSP-ISC2-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
+[![CCSP](https://img.shields.io/badge/CCSP-ISC2-blue?style=for-the-badge)](YOUR_CREDLY_LINK)
+[![Security+](https://img.shields.io/badge/Security%2B-CompTIA-red?style=for-the-badge)](YOUR_CREDLY_LINK)
+[![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge)](YOUR_CREDLY_LINK)
 
-### Contact Me
+---
 
-For professional inquiries, please reach out through [LinkedIn](#) or email kyuandej@gmail.com.
+## About
 
-(Note: Replace `#` with your actual LinkedIn profile link and contact form link, if available.)
+This GitHub documents the cybersecurity lab environment I use to experiment with infrastructure, monitoring systems, and defensive security techniques.
 
-## About Me
+The goal of this lab is to build practical environments for testing security concepts such as detection engineering, attack simulation, and infrastructure hardening.
 
-I hold a Master of Science in Cyber Security from Temple University and a Bachelor of Science in Information Technology from Lincoln University of Pennsylvania. Certified in CISSP and CompTIA Security+, I've spent over 7 years in the IT field, focusing on enhancing system security postures within high-stakes environments like the DoD and Navy.
+---
 
-## Experience
+## Cybersecurity Lab
 
-### Noblis | Philadelphia, PA
-**Information Systems Security Manager (Sep 2022 – Present)**
-- Led risk and vulnerability assessments, identifying and mitigating threats to U.S. Navy systems.
-- Enhanced security compliance through rigorous NIST 800-53, DISA STIGs, and SRGs assessments.
+My lab is built to simulate enterprise environments where security tooling and monitoring techniques can be tested in a controlled environment.
 
-**Information System Security Engineer (Oct 2020 – Sep 2022)**
-- Conducted comprehensive scans and mitigated vulnerabilities for Department of Navy Systems.
+Core infrastructure includes:
 
-## Projects
+• Proxmox virtualization platform  
+• Linux and Windows virtual machines  
+• Docker-based service infrastructure  
+• Segmented virtual networks  
 
-- **Microsoft MDM and Dual Factor Authentication**: Spearheaded the integration of robust security measures in the McKean Defense IT environment.
-- **Transition to Microsoft GCC High**: Facilitated a smooth transition to a secure cloud platform to meet FedRAMP high-impact requirements.
+This environment supports testing of monitoring pipelines, detection techniques, and security experiments.
 
-## Education 
-- M.S. Cyber Security & IT Auditing - Temple University
+---
 
-## Skills
+## Current Focus
 
-- **Technical**: Vulnerability Assessment Tools (ACAS), NIST 800 RMF, CVE, CVSS
-- **Soft Skills**: Team Leadership, Problem Solving, Effective Communication
+Areas I am currently exploring in my lab include:
 
+• Detection engineering  
+• Security monitoring architectures  
+• Infrastructure security  
+• Attack simulation and analysis  
+
+---
+
+## Featured Projects
+
+• **cybersecurity-lab** — core infrastructure and security experiments within my lab  
+• **active-directory-lab** — simulated AD environment for attack and detection scenarios  
+• **detection-engineering-lab** — experiments with log analysis and detection logic  
+• **vulnerability-management-lab** — vulnerability scanning and remediation workflows  
+
+---
+
+## Homelab Infrastructure
+
+In addition to security experiments, I maintain a self-hosted infrastructure environment used to support services within the lab.
+
+A separate repository documents the deployment of services such as dashboards, DNS filtering, and other self-hosted infrastructure components.
+
+---
+
+## Education
+
+M.S. Cybersecurity & Information Technology Auditing — Temple University  
+B.S. Information Technology — Lincoln University of Pennsylvania  
+
+---
+
+## Disclaimer
+
+All projects and documentation in this repository are from my personal lab environment and do not represent any employer or organization.
+
+---
+
+## Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/kyuandejohnson/
