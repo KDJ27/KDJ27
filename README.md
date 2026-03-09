@@ -29,11 +29,9 @@ I hold a Master of Science in Cyber Security from Temple University and a Bachel
 - **Microsoft MDM and Dual Factor Authentication**: Spearheaded the integration of robust security measures in the McKean Defense IT environment.
 - **Transition to Microsoft GCC High**: Facilitated a smooth transition to a secure cloud platform to meet FedRAMP high-impact requirements.
 
-## Education & Certifications
-
-- **Master of Science in Cyber Security**, Temple University
-- **Bachelor of Science in Information Technology**, Lincoln University of Pennsylvania
-- **Certifications**: CISSP, CompTIA Security+
+## Education 
+- M.S. Cyber Security & IT Auditing - Temple University
+- B.S. Information Technology - Lincoln University of Pennsylvania
 
 ## Skills
 
